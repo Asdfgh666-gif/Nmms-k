@@ -10,5 +10,11 @@
     "key": "s123",
     "expirydate": "14-05-2026",
     "Allowoffline": false
+  },
+  {
+     "device_id": "453542c273d757eb",
+    "key": "r123",
+    "expirydate": "14-06-2026",
+    "Allowoffline": false
   }
 ]
